@@ -1,3 +1,32 @@
 #top-cols {
   display: flex;
+  background-color: rgb(82, 174, 169);
+  color: white;
+  padding-top: 40px;
 }
+
+#cardss{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 40vh;
+  margin-right: 40vh;
+}
+
+#subbar {
+  display: flex;
+  width: 75%;
+  height: 10vh;
+  background-color: rgb(82, 174, 169);
+  color: white;  
+  margin-top: 10vh;
+}
+
+.input-group {
+  display: flex;
+  justfiy-content: center;
+}
+
+
+
+
+
